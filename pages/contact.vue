@@ -2,8 +2,5 @@
 </script>
 
 <template>
-	<h1>contact</h1>
-	<div>
-		<NuxtLink to="/">back</NuxtLink>
-	</div>
+	<h2>contact</h2>
 </template>
