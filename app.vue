@@ -25,18 +25,18 @@
 		margin-bottom: 30px;
 	}
 
-  h2 {
+	h2 {
 	  font-size: 25px;
-  }
+	}
 
 	a.header {
 		background-color: floralwhite;
-	  font-size: 15px;
+		font-size: 15px;
 		margin-left: 2px;
 		margin-right: 2px;
 		padding: 10px 25px;
 		text-decoration: none;
-	  border-radius: 10px;
+		border-radius: 10px;
 	}
 
 	a.header:hover {
@@ -44,23 +44,23 @@
 	}
 
 	header {
-	  border: 2px solid beige;
+		border: 2px solid beige;
 		background-color: #fefefc;
-	  border-radius: 10px;
-	  text-align: center;
-	  padding-bottom: 25px;
+		border-radius: 10px;
+		text-align: center;
+		padding-bottom: 25px;
 	}
 
 	footer {
-	  position: fixed;
-	  bottom: 0;
+		position: fixed;
+		bottom: 0;
 		background-color: #fefefc;
 		width: 99%;
 		text-align: center;
 		padding-top: 15px;
 		padding-bottom: 15px;
-	  border: 2px solid beige;
-	  border-radius: 10px;
+		border: 2px solid beige;
+		border-radius: 10px;
 		margin: 0 10px 10px 0;
 	}
 </style>
